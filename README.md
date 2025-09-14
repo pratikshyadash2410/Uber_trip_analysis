@@ -1,1 +1,2 @@
 # Uber_trip_analysis
+This project focuses on analyzing Uber trip data to uncover meaningful insights about operational efficiency and demand behavior. The analysis highlights base-wise trip contributions, vehicle utilization, and overall efficiency trends. It further explores temporal ride distribution by examining daily, weekly, and seasonal demand patterns, along with vehicle activity and trip volume fluctuations over time.
